@@ -1,2 +1,3 @@
 # comp2900
-Estructura de Datos
+Curso de __Estructuras de Datos__
+__Autor Yadiel Torres__
